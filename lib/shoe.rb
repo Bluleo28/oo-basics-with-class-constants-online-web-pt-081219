@@ -9,6 +9,7 @@ class Shoe
   end
   def initialize(size) 
       @size = size
+    end
 
   def cobble
     self.condition = "new"

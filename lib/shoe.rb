@@ -18,5 +18,7 @@ class Shoe
   
     def brand= (brand)
       @brand = ["Uggs","Rainbow"]
+    def size=(size)
+      @size=(3)
   end
 end 
